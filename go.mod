@@ -1,4 +1,4 @@
-module github.com/dgraph-io/grpc-proxy
+module github.com/timunas/grpc-proxy
 
 go 1.21
 

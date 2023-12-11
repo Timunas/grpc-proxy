@@ -7,8 +7,8 @@ import (
 	"google.golang.org/grpc/encoding"
 	"google.golang.org/protobuf/proto"
 
-	codec "github.com/dgraph-io/grpc-proxy/proxy/codec"
-	pb "github.com/dgraph-io/grpc-proxy/testservice"
+	codec "github.com/timunas/grpc-proxy/proxy/codec"
+	pb "github.com/timunas/grpc-proxy/testservice"
 )
 
 func TestCodec_ReadYourWrites(t *testing.T) {

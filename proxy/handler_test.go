@@ -23,9 +23,9 @@ import (
 	"google.golang.org/grpc/status"
 	"google.golang.org/protobuf/proto"
 
-	"github.com/dgraph-io/grpc-proxy/proxy"
-	codec "github.com/dgraph-io/grpc-proxy/proxy/codec"
-	pb "github.com/dgraph-io/grpc-proxy/testservice"
+	"github.com/timunas/grpc-proxy/proxy"
+	codec "github.com/timunas/grpc-proxy/proxy/codec"
+	pb "github.com/timunas/grpc-proxy/testservice"
 )
 
 const (

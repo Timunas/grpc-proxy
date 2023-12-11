@@ -12,7 +12,7 @@ import (
 	"google.golang.org/grpc/metadata"
 	"google.golang.org/grpc/status"
 
-	"github.com/dgraph-io/grpc-proxy/proxy/codec"
+	"github.com/timunas/grpc-proxy/proxy/codec"
 )
 
 var (
