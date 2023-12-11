@@ -4,7 +4,7 @@
 package proxy
 
 import (
-	"github.com/dgraph-io/grpc-proxy/proxy/codec"
+	"github.com/timunas/grpc-proxy/proxy/codec"
 )
 
 // ResponseModifier modifies the response before returning it to the client
